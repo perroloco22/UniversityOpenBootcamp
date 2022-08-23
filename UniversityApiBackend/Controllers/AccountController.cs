@@ -74,7 +74,7 @@ namespace UniversityApiBackend.Controllers
             }
         }
 
-        [HttpGet(Name = "GetUsersList")]
+        [HttpGet]
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admninistrator")]
         public IActionResult GetUsersList()
         {
