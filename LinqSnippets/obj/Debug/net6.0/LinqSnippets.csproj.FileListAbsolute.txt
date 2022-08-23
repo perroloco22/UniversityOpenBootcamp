@@ -1,0 +1,12 @@
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\bin\Debug\net6.0\LinqSnippets.deps.json
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\bin\Debug\net6.0\LinqSnippets.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\bin\Debug\net6.0\LinqSnippets.pdb
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.AssemblyReference.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfoInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.AssemblyInfo.cs
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.csproj.CoreCompileInputs.cache
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\refint\LinqSnippets.dll
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\LinqSnippets.pdb
+E:\MATIAS\INFORMATICA\CURSOS\OpenBootcamp\Repos\OpenBootcamp\Api\University\LinqSnippets\obj\Debug\net6.0\ref\LinqSnippets.dll
