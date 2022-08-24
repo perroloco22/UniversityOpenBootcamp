@@ -25,7 +25,7 @@ namespace UniversityApiBackend.Helpers
             }else if (userAccount.UserName == "User 1")
             {
                 claims.Add(new Claim(ClaimTypes.Role, "User"));
-                claims.Add(new Claim("userOnly", "User 1"));
+                claims.Add(new Claim("UserOnly", "User 1"));
             }
 
             return claims;
@@ -68,8 +68,7 @@ namespace UniversityApiBackend.Helpers
                     expires: new DateTimeOffset(expireTime).DateTime,
                     signingCredentials: new SigningCredentials(
                         new SymmetricSecurityKey(key),
-                        SecurityAlgorithms.HmacSha256
-                        )
+                        SecurityAlgorithms.HmacSha256)
                     );
 
                 userToken.Token = new JwtSecurityTokenHandler().WriteToken(jwToken);

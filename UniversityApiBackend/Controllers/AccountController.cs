@@ -8,7 +8,7 @@ using UniversityApiBackend.Models.DataModels;
 namespace UniversityApiBackend.Controllers
 {
     [ApiController]
-    [Route("[controller]/[action]")]
+    [Route("api/[controller]/[action]")]
     public class AccountController : ControllerBase
     {
         private readonly JwtSettings _jwtSettings;
@@ -57,7 +57,7 @@ namespace UniversityApiBackend.Controllers
                         GuidId = Guid.NewGuid(),
 
 
-                    },_jwtSettings);
+                    }, _jwtSettings);
 
                 }
                 else
@@ -75,7 +75,7 @@ namespace UniversityApiBackend.Controllers
         }
 
         [HttpGet]
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admninistrator")]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Administrator")]
         public IActionResult GetUsersList()
         {
             return Ok(Logins);
